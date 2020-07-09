@@ -1,6 +1,6 @@
 package com.ghazi.security.security;
 
-import com.atguigu.commonutils.MD5;
+import com.ghazi.commonutils.MD5;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Component;
 

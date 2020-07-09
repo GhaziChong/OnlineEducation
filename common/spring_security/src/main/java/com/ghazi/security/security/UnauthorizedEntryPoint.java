@@ -1,7 +1,7 @@
 package com.ghazi.security.security;
 
-import com.atguigu.commonutils.R;
-import com.atguigu.commonutils.ResponseUtil;
+import com.ghazi.commonutils.R;
+import com.ghazi.commonutils.ResponseUtil;
 import org.springframework.security.core.AuthenticationException;
 import org.springframework.security.web.AuthenticationEntryPoint;
 
